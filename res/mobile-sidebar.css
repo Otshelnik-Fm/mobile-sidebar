@@ -1,0 +1,42 @@
+#mbs_bttn {
+    align-items: center;
+    color: #eee;
+    cursor: pointer;
+    display: flex;
+    float: right;
+    font-size: 18px;
+}
+#mbs_bttn .fa {
+    font-size: 16px;
+}
+#mbs_menu:empty {
+    display: none;
+}
+#mbs_menu {
+    background: #ddd;
+    border-top: 2px solid #e37c54;
+    box-sizing: border-box;
+    color: #000;
+    display: block;
+    height: 100%;
+    left: 0;
+    line-height: 1.4;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: fixed;
+    top: 36px;
+    transform: translate3d(0px, 0px, 0px);
+    visibility: hidden;
+    width: 300px;
+    z-index: 1490;
+}
+#mbs_menu.mbs_menu_hidden {
+    opacity: 0;
+    transform: translateX(-300px);
+    visibility: hidden;
+}
+#mbs_menu.mbs_menu_open {
+    opacity: 1;
+    transform: translateX(0);
+    visibility: visible;
+}
