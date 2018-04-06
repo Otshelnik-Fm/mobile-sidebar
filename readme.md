@@ -18,7 +18,7 @@
 - смотрите в описании товара видео - все подробно рассказал.
 
 Видео:  
-[![See video](https://img.youtube.com/vi/IXerberpR1o/0.jpg)](https://www.youtube.com/watch?v=IXerberpR1o "See video")  
+[![See video](https://img.youtube.com/vi/27X8lhJNt8w/0.jpg)](https://www.youtube.com/watch?v=27X8lhJNt8w "See video")  
 
 ------------------------------
 
