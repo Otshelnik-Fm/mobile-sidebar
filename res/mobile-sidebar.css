@@ -6,7 +6,7 @@
     float: right;
     font-size: 18px;
 }
-#mbs_bttn .fa {
+#mbs_bttn .rcli {
     font-size: 16px;
 }
 #mbs_menu:empty {
@@ -23,6 +23,7 @@
     line-height: 1.4;
     overflow-x: hidden;
     overflow-y: auto;
+    padding: 12px;
     position: fixed;
     top: 36px;
     transform: translate3d(0px, 0px, 0px);

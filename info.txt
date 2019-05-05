@@ -1,6 +1,6 @@
 Name: Mobile Sidebar;
-Version: 1.0;
-Support Core: 16.13.0;
+Version: 1.1;
+Support Core: 16.16.0;
 Description: Регистрирует сайдбар и виджет. Виджет на 768px копирует в мобильное меню;
 Author: Владимир Дружаев (Otshelnik-Fm);
 Author URI: https://otshelnik-fm.ru/;
